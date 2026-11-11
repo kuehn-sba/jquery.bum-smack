@@ -15,7 +15,7 @@
   "license": "MIT",
   "gitHead": "84653705d74fd8074225f3830578d2c808a091b4",
   "readmeFilename": "README.md",
-  "dependencies": {
+  "#dependencies": {
     "chai": "~1.8.1",
     "mocha": "~1.16.2",
     "grunt": "~0.4.2",
